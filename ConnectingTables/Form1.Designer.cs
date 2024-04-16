@@ -64,6 +64,7 @@
             btn.TabIndex = 2;
             btn.Text = "Insert Into Razred:";
             btn.UseVisualStyleBackColor = true;
+            btn.Click += btn_Click;
             // 
             // txt
             // 
@@ -83,7 +84,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(747, 479);
+            ClientSize = new Size(697, 417);
             Controls.Add(txt2);
             Controls.Add(txt);
             Controls.Add(btn);

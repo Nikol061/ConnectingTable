@@ -18,3 +18,4 @@ C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\TreesZaimov\ConnectingTables\obj\Debug
 C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ConnectingTables.pdb
 C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ConnectingTables.genruntimeconfig.cache
 C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ref\ConnectingTables.dll
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ConnectingTables.sourcelink.json
