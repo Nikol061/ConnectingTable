@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectingTables", "ConnectingTables\ConnectingTables.csproj", "{D3CC027E-B22E-46D1-9937-408AA4D63ACB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectingTables", "ConnectingTables\ConnectingTables.csproj", "{D3CC027E-B22E-46D1-9937-408AA4D63ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj", "{60D4C8C5-B97B-4D27-993D-EEC1781C3055}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D3CC027E-B22E-46D1-9937-408AA4D63ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3CC027E-B22E-46D1-9937-408AA4D63ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3CC027E-B22E-46D1-9937-408AA4D63ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D4C8C5-B97B-4D27-993D-EEC1781C3055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D4C8C5-B97B-4D27-993D-EEC1781C3055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D4C8C5-B97B-4D27-993D-EEC1781C3055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D4C8C5-B97B-4D27-993D-EEC1781C3055}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
